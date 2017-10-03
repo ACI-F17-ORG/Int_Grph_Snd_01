@@ -1,4 +1,3 @@
-
 ## Links:
 
 Put your name and link to assignment repository here. Example:
@@ -16,6 +15,8 @@ Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 Alex Fig https://github.com/figgyfunk/VisualAudio.git
 
 Amanda Howanice https://github.com/howana/assignment1.git
+
+Madeline Kettler https://github.com/maddiekettler/sound_and_vision.git
 
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
 
