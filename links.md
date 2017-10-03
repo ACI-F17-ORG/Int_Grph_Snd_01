@@ -15,6 +15,8 @@ Alex Fig https://github.com/figgyfunk/VisualAudio.git
 
 Amanda Howanice https://github.com/howana/assignment1.git
 
+Jessie Liao https://github.com/JessieLiao/PitchLight
+
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
 
 Omer Osman https://github.com/omerosman/osmano_IGS.git
