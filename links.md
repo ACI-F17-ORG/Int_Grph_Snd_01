@@ -15,6 +15,8 @@ Alex Fig https://github.com/figgyfunk/VisualAudio.git
 
 Amanda Howanice https://github.com/howana/assignment1.git
 
+Andie Labgold https://github.com/alabgold/ACI_OF/tree/master
+
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
 
 Omer Osman https://github.com/omerosman/osmano_IGS.git
