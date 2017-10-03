@@ -18,6 +18,8 @@ Amanda Howanice https://github.com/howana/assignment1.git
 
 Madeline Kettler https://github.com/maddiekettler/sound_and_vision.git
 
+Jessie Liao https://github.com/JessieLiao/PitchLight
+
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
 
 Omer Osman https://github.com/omerosman/osmano_IGS.git
