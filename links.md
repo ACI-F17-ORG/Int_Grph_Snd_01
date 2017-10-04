@@ -18,6 +18,8 @@ Amanda Howanice https://github.com/howana/assignment1.git
 
 Madeline Kettler https://github.com/maddiekettler/sound_and_vision.git
 
+Andie Labgold https://github.com/alabgold/ACI_OF/tree/master
+
 Jessie Liao https://github.com/JessieLiao/PitchLight
 
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
