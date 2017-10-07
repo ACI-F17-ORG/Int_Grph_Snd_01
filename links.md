@@ -10,6 +10,8 @@ Jazmyn Borman + Igor Carvalho: https://github.com/JSBorman/Stunning-System
 
 Liliana Campuzano: https://bitbucket.org/MystG/theduckyproject
 
+Arielle Cerini: https://github.com/acerini/soundAttempt2
+
 Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 
 Alex Fig https://github.com/figgyfunk/VisualAudio.git
