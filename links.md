@@ -37,3 +37,5 @@ Yihao Zhu  git@github.com:syeswr/ArtHW1.git
 Bohan Chen https://github.com/bohanchen/ACI_IGS
 
 Andrew Aquino: https://github.com/dawneraq/meltYourFace
+
+Emily Lockwood https://github.com/ACI-F17-ORG/Color_Note_Frequencies.git
