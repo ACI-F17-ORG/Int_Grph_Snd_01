@@ -24,6 +24,8 @@ Andie Labgold https://github.com/alabgold/ACI_OF/tree/master
 
 Jessie Liao https://github.com/JessieLiao/PitchLight
 
+Zeana Llamas https://github.com/zllamas/CircleRainSoundscape.git
+
 John Noonan     https://github.com/JohnENoonan/InteractiveVideoGlitch.git
 
 Omer Osman https://github.com/omerosman/osmano_IGS.git
